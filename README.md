@@ -6,6 +6,8 @@
 The script actually bruteforce the possible directories and returns the HTTP response code.
 You can add your own directories by editing "admin_panels.txt" file.
 
+(![image](https://i.postimg.cc/PfY0fqTM/2025-10-18-123222.png)
+
 ## Installation & Usage
 ```
 git clone https://github.com/darkboss1/Admin-finder-by-darkboss1.git
@@ -13,9 +15,6 @@ git clone https://github.com/darkboss1/Admin-finder-by-darkboss1.git
 ```
 cd Admin-finder-by-darkboss1
 ```bash
-python3 finder.py <Target Url>
-...
-```bash
 For example
-python3 finder.py http://txt.com
+python Admin-finder-by-darkboss1.py
 ```
