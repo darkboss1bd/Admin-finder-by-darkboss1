@@ -11,14 +11,10 @@ You can add your own directories by editing "admin_panels.txt" file.
 git clone https://github.com/darkboss1/Admin-finder-by-darkboss1.git
 ```
 ```
-cd Admin-finder/
-```
-```
-pip install -r requirements.txt
-```
+cd Admin-finder-by-darkboss1
 ```
 python3 finder.py <Target Url>
-
+...
 For example
 python3 finder.py http://txt.com
 ```
