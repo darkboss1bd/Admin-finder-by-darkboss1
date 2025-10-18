@@ -12,9 +12,10 @@ git clone https://github.com/darkboss1/Admin-finder-by-darkboss1.git
 ```
 ```
 cd Admin-finder-by-darkboss1
-```
+```bash
 python3 finder.py <Target Url>
 ...
+```bash
 For example
 python3 finder.py http://txt.com
 ```
